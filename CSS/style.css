@@ -1,0 +1,143 @@
+body{
+    background-color: rgb(238, 228, 228);
+}
+
+.demo{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#book{
+    margin: 150px;
+    padding: 30px;
+    font-size: 200%;
+}
+
+#book p{
+    font-size: 32px;
+}
+
+h1{
+    color: rgb(0, 60, 255);
+    width: 70%;
+    height: 50%;
+}
+
+form{
+    box-shadow: 2 2px 5px 0 rgb(206, 198, 198);
+    padding: 40px;
+    border: 5px solid white;
+}
+
+.facebook{
+    float: right;
+    margin: 40px 150px 40px 20px;
+    border: 1px solid white;
+    border-radius: 3px;
+    background-color: white;
+}
+
+/* .pen{
+    float: right;
+    padding-bottom: 50px;
+    margin: 0 150px 0 0;
+    padding: 20px;
+} */
+
+.pg{
+    margin-left:45px ;
+}
+.pg p b a{
+    text-decoration: none;
+}
+
+.pg p b a:hover{
+    text-decoration: underline;
+
+}
+
+.pen a{
+    text-decoration: none;
+    color: black;
+}
+
+.pen a:hover{
+    text-decoration: underline;
+}
+
+#email{
+    width: 300px;
+    border: 1px solid rgb(0, 60, 255);
+    border-radius: 3px;
+    height: 30px;
+}
+
+#password{
+    width: 300px;
+    height: 30px;
+    border: 1px solid rgb(184, 176, 176);
+    border-radius: 3px;
+}
+
+#log in{
+    color: white;
+    background-color: rgb(0, 60, 255);
+    width: 300px;
+    height: 35px;
+    border-radius: 3px;
+    border: none;
+    font-size: medium;
+}
+
+#log in:hover{
+    opacity: 0.7;
+}
+
+#logo{
+    color: white;
+    background-color: rgba(48, 214, 26, 0.89);
+    border: 1px rgba(48, 214, 26, 0.88);
+    border-radius: 3px;
+    padding: 10px;
+    text-align: center;
+    margin: 15px 40px 0px 40px;
+}
+
+#logo a{
+    color: white;
+    text-decoration: none;
+}
+
+#logo:hover{
+    opacity: 0.7;
+}
+#login{
+    color:white;
+    background-color: rgb(0, 60, 255);
+    width:300px;
+    height:35px;
+    border-radius: 3px;
+    border: none;
+    font-size: medium;
+}
+
+#login:hover{
+    opacity: 0.7;
+}
+
+#create{
+    color: white;
+    background-color: rgba(48, 214, 26, 0.89);
+    border: 1px solid rgba(48, 214, 26, 0.89);
+    border-radius: 3px;
+    padding: 10px;
+    text-align: center;
+    margin: 15px 40px 0 40px;
+}
+#create a{
+    color:white;
+    text-decoration: none;
+}
+#create:hover{
+    opacity: 0.7;
+}
